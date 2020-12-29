@@ -1,0 +1,5 @@
+C:\Users\ice\source\repos\Mem\Debug\Mem.vcxproj.CopyComplete
+C:\Users\ice\source\repos\Mem\Debug\Mem.exe
+C:\Users\ice\source\repos\Mem\Debug\Mem.pdb
+C:\Users\ice\source\repos\Mem\Debug\gtest.pdb
+C:\Users\ice\source\repos\Mem\Debug\gtest_main.pdb

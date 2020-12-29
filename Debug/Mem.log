@@ -1,0 +1,4 @@
+﻿  test.cpp
+C:\Users\ice\source\repos\Mem\test.cpp(387,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ice\source\repos\Mem\test.cpp(429,41): warning C4018: <: несоответствие типов со знаком и без знака
+  Mem.vcxproj -> C:\Users\ice\source\repos\Mem\Debug\Mem.exe
